@@ -1,0 +1,14 @@
+com\umg\automatas\AplicacionPrincipal.class
+com\umg\automatas\modelo\AutomataDTO.class
+com\umg\automatas\vista\NodoEstado.class
+com\umg\automatas\AplicacionPrincipal$FilaCadena.class
+com\umg\automatas\modelo\Transicion.class
+com\umg\automatas\modelo\TipoAutomata.class
+com\umg\automatas\modelo\Automata.class
+com\umg\automatas\modelo\Estado.class
+com\umg\automatas\modelo\AutomataDTO$EstadoDTO.class
+com\umg\automatas\vista\AristaTransicion.class
+com\umg\automatas\modelo\AutomataDTO$TransicionDTO.class
+com\umg\automatas\modelo\CargadorAutomataTXT.class
+com\umg\automatas\modelo\AlgoritmoEliminacionEstados.class
+com\umg\automatas\vista\LienzoCanvas.class

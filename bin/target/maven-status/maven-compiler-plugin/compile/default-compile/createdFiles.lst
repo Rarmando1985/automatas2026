@@ -1,0 +1,7 @@
+com\umg\automatas\AplicacionPrincipal.class
+com\umg\automatas\modelo\Automata.class
+com\umg\automatas\modelo\Estado.class
+com\umg\automatas\vista\NodoEstado.class
+com\umg\automatas\modelo\Transicion.class
+com\umg\automatas\vista\LienzoCanvas.class
+com\umg\automatas\modelo\TipoAutomata.class

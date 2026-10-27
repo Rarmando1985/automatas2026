@@ -1,1 +1,1 @@
-# automatas2026
+# automatas

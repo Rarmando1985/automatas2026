@@ -1,0 +1,18 @@
+# Estados
+Q = q0, q1, q2, q3
+
+# Alfabeto
+ALFABETO = a, b
+
+# Estado Inicial
+INICIAL = q0
+
+# Estados de Aceptación
+ACEPTACION = q2, q3
+
+# Transiciones (Origen, Simbolo, Destino)
+TRANSICIONES =
+q0, a, q1
+q1, b, q2
+q2, a, q2
+q2, b, q3

@@ -1,0 +1,45 @@
+/* TEMA CLARO (Default) */
+.root {
+    -fx-font-family: 'Segoe UI', Helvetica, Arial, sans-serif;
+    -fx-base-color: #FFFFFF;
+    -fx-background-color: #F8F9FA;
+}
+
+/* TEMA OSCURO */
+.root.dark-theme {
+    -fx-base-color: #121212;
+    -fx-background-color: #121212;
+}
+
+/* Panel Superior e Inferior en Modo Oscuro */
+.dark-theme .panel-top, 
+.dark-theme .panel-bottom {
+    -fx-background-color: #1E1E1E !important;
+    -fx-border-color: #2D2D2D !important;
+}
+
+/* Panel Lateral Derecho en Modo Oscuro */
+.dark-theme .panel-right {
+    -fx-background-color: #181818 !important;
+    -fx-border-color: #2D2D2D !important;
+}
+
+/* Textos e Insumos en Modo Oscuro */
+.dark-theme .label {
+    -fx-text-fill: #E0E0E0;
+}
+
+.dark-theme .text-field {
+    -fx-background-color: #2A2A2A;
+    -fx-text-fill: #FFFFFF;
+    -fx-border-color: #3D3D3D;
+    -fx-border-radius: 4px;
+}
+
+.dark-theme .scroll-pane {
+    -fx-background-color: transparent;
+}
+
+.dark-theme .scroll-pane > .viewport {
+    -fx-background-color: transparent;
+}
